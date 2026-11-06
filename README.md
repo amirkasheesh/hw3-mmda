@@ -52,3 +52,5 @@ fixed_acidity,volatile_acidity,citric_acid,residual_sugar,chlorides,free_sulfur_
 3. Укажите репозиторий, ветку и путь к основному файлу: `wine_app/app.py`.
 4. В `Advanced settings` выберите Python 3.12 и запустите развёртывание. Зависимости установятся из `wine_app/requirements.txt`.
 5. Проверьте открывшееся приложение и добавьте его фактическую ссылку в сдачу вместе с архивом.
+
+Приложение Streamlit: [тык сюда](https://hw3-mmda-deln4gcu2ajwb2gebdhkqw.streamlit.app)
